@@ -12,14 +12,11 @@ order: 4
 
 **醇羟基** 2025年11月，复旦邯郸
 
-
-
-快来评论区发疯......
 <script src="https://giscus.app/client.js"
-        data-repo="garyagasa/garyagasa.github.io"
-        data-repo-id="R_kgDOQIYT2w"
+        data-repo="fudanOHshare/fudanOHshare.github.io"
+        data-repo-id="R_kgDOQWxsvg"
         data-category="Announcements"
-        data-category-id="DIC_kwDOQIYT284Cxa8K"
+        data-category-id="DIC_kwDOQWxsvs4Cx2d9"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"

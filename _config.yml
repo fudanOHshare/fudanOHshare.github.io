@@ -120,10 +120,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: garyagasa/fudan_oh_share # <gh-username>/<repo>
-    repo_id: "R_kgDOQIYT2w"
+    repo: fudanOHshare/fudanOHshare.github.io # <gh-username>/<repo>
+    repo_id: "R_kgDOQWxsvg"
     category: "Announcements"
-    category_id: "DIC_kwDOQIYT284Cxa8K"
+    category_id: "DIC_kwDOQWxsvs4Cx2d9"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
